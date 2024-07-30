@@ -1,0 +1,6 @@
+spacy
+spacy-llm
+pyyaml
+python-dotenv
+jinja2
+openai
